@@ -1,0 +1,6 @@
+{
+  "name": "Изат-Ата",
+  "description": "Современное POS-приложение / веб-касса для продуктового магазина Изат-Ата. Продажи, учет товаров, остатки, клиенты в долг, SMS-напоминания и отчеты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
